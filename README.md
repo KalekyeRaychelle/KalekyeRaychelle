@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a third year student passionate on front and backend web development <br><br>- 🔭 <br>- 📚 I'm currently learning python and cloud computing<br>- ⚡ In my free time I like to crotchet and read books</p>
+<p align="left">I'm a fourth year student passionate on front and backend web development <br><br>- 🔭 <br>- 📚 I'm currently learning cloud computing<br>- ⚡ In my free time I like to crotchet and read books</p>
 
 ###
 
