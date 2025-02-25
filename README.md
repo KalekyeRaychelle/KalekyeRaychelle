@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a fourth year student passionate on web development and data analysis <br><br>- 🔭 <br>- 📚 I'm currently learning machine learning<br>- In my free time I like to crotchet and read books</p>
+<p align="left">I'm a fourth year student passionate on web development and data analysis <br><br>- <br>- 📚 I'm currently learning machine learning<br>- In my free time I like to crotchet and read books</p>
 
 ###
 
