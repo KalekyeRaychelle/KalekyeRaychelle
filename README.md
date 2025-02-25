@@ -6,19 +6,19 @@
 
 ###
 
-<h1 align="center">hey there 👋.My name is Raychelle Kalekye</h1>
+<h1 align="center">HI THERE! My name is Raychelle Kalekye</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
-<p align="left">I'm a fourth year student passionate on front and backend web development <br><br>- 🔭 <br>- 📚 I'm currently learning cloud computing<br>- ⚡ In my free time I like to crotchet and read books</p>
+<p align="left">I'm a fourth year student passionate on web development and data analysis <br><br>- 🔭 <br>- 📚 I'm currently learning machine learning<br>- In my free time I like to crotchet and read books</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
@@ -29,13 +29,15 @@
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
   
   
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"> My Stats :</h3>
 
 ###
 
